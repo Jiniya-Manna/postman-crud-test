@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "7f9cadab-706a-4b8f-9279-eb4f1b819fac",
+		"name": "CRUD-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9392748",
+		"_collection_link": "https://crimson-station-473951.postman.co/workspace/New_workspace~a149f059-903e-434b-a56b-4210631fa00d/collection/9392748-7f9cadab-706a-4b8f-9279-eb4f1b819fac?action=share&source=collection_link&creator=9392748"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
